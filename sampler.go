@@ -1,5 +1,5 @@
 package sampler
 
 func GetSampler() int {
-	return 102
+	return 104
 }
