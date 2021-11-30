@@ -10,6 +10,5 @@ func GetGreetings() int {
 	greeting, _ := fmt.Println("greeting - hello world")
 	var p *pkcs11.Ctx
 	fmt.Println("ctx - ", p)
-
-	return greeting
+	return 110
 }
