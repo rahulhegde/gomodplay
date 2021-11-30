@@ -1,5 +1,5 @@
 package greetings
 
 func GetFinance() int {
-	return 100
+	return 101
 }
