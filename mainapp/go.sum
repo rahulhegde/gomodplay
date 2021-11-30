@@ -1,0 +1,8 @@
+github.com/miekg/pkcs11 v1.0.3 h1:iMwmD7I5225wv84WxIG/bmxz9AXjWvTWIbM/TYHvWtw=
+github.com/miekg/pkcs11 v1.0.3/go.mod h1:XsNlhZGX73bx86s2hdc/FuaLm2CPZJemRLMA+WTFxgs=
+github.com/rahulhegde/gomodplay v1.0.4 h1:LAQeLpgSz40K4vLaKYFTGNuJ90NTgaOSDiNTcFzQLYg=
+github.com/rahulhegde/gomodplay v1.0.4/go.mod h1:wSGE9g9O6A3ipZ1vRhpeVnCox4Q8jaXIw3f6RrYxxVU=
+github.com/rahulhegde/gomodplay/finance v1.0.2 h1:XJDZCwC3V46DzfMXjEmG1NJTsB5zAmdYZ1ngUj9e754=
+github.com/rahulhegde/gomodplay/finance v1.0.2/go.mod h1:+DkmoHEg6PuSDz2192exSSF6YfI1QiK71Ff7Rion9pw=
+github.com/rahulhegde/gomodplay/greetings v1.1.1 h1:1zKHdvAOnPL5udpqgsiqz9EMzd0NwE0V7QJJbL3wBRA=
+github.com/rahulhegde/gomodplay/greetings v1.1.1/go.mod h1:oVr2TsFfCG128+04Ywyjsnj/8tVTepq9fwPtzLqLG4I=
