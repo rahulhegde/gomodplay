@@ -7,8 +7,8 @@ import (
 )
 
 func GetGreetings() int {
-	greeting, _ := fmt.Println("greeting - hello world")
+	fmt.Println("greeting - hello world")
 	var p *pkcs11.Ctx
 	fmt.Println("ctx - ", p)
-	return 110
+	return 111
 }
