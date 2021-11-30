@@ -1,3 +1,3 @@
-module github.com/rahulhegde/gomodplay/finance/v1
+module github.com/rahulhegde/gomodplay/finance
 
 go 1.15
