@@ -1,4 +1,4 @@
-module rahulhegde/mainapp
+module github.com/rahulhegde/gomodplay/mainapp
 
 go 1.15
 
